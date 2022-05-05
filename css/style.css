@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(19, 38, 145);
+}
+
+h1 {
+    color: white;
+}
+.blue {
+    background-color: rgb(0, 162, 255);
+}
+.green {
+    background-color: rgb(27, 177, 132);
+}
+.yellow {
+    background-color: rgb(172, 184, 7);
+}
+.red {
+    background-color: rgb(201, 15, 15);
+}
